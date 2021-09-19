@@ -12,11 +12,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "android-launchericon-512-512.png"
   },
   {
-    "revision": "f12bb1ce4e9f36bbd60e",
+    "revision": "a4b74f3d503549388d2f",
     "url": "css/app~5d7b0986.e5091971.css"
   },
   {
-    "revision": "f44ba011fc7cb3fe1d7e",
+    "revision": "a17a85eeecc6810b9489",
     "url": "css/app~d0ae3f07.70d93964.css"
   },
   {
@@ -40,7 +40,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/chunk-vendors~5ac810f6.bd659205.css"
   },
   {
-    "revision": "899dbbda9d7ef39c5307",
+    "revision": "16bf7cef65c56340b50a",
     "url": "css/page-undangan-index~31ecd969.99c711cb.css"
   },
   {
@@ -68,24 +68,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/card.8be2be07.png"
   },
   {
-    "revision": "0c1499b44a05eb87247a7544598a7cb3",
-    "url": "img/covid.0c1499b4.jpg"
-  },
-  {
     "revision": "cae8fddf5efaa40d4b30d3ec57f7d979",
     "url": "img/typicons.cae8fddf.svg"
   },
   {
-    "revision": "9e6061fbf71a1f9287941f5680a0aff4",
+    "revision": "6b9b880737f3a0803de7106bfbe27063",
     "url": "index.html"
   },
   {
-    "revision": "f12bb1ce4e9f36bbd60e",
-    "url": "js/app~5d7b0986.f63e7773.js"
+    "revision": "a4b74f3d503549388d2f",
+    "url": "js/app~5d7b0986.9e3ec706.js"
   },
   {
-    "revision": "f44ba011fc7cb3fe1d7e",
-    "url": "js/app~d0ae3f07.12b61914.js"
+    "revision": "a17a85eeecc6810b9489",
+    "url": "js/app~d0ae3f07.66cbc556.js"
   },
   {
     "revision": "01c636cd1ba45f2e202e",
@@ -228,8 +224,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/page-test~fcee1841.d5c00335.js"
   },
   {
-    "revision": "899dbbda9d7ef39c5307",
-    "url": "js/page-undangan-index~31ecd969.41dfca86.js"
+    "revision": "16bf7cef65c56340b50a",
+    "url": "js/page-undangan-index~31ecd969.992eb4c2.js"
   },
   {
     "revision": "8dcadb8da4d91e981395",
