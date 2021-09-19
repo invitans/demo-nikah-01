@@ -72,7 +72,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/typicons.cae8fddf.svg"
   },
   {
-    "revision": "6b9b880737f3a0803de7106bfbe27063",
+    "revision": "b291cad4b96bb4c05decd5492d324c16",
     "url": "index.html"
   },
   {
